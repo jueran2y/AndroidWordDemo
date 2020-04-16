@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo006_Word</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addWord">添加单词</string>
+    <string name="chineseMeaning">中文解释</string>
+    <string name="englishWord">英文单词</string>
+    <string name="cleardata">清空数据</string>
+</resources>

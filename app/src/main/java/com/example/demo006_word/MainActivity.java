@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     /*
     * Android学习的一个Demo 运用了Android3.6一些新特性
     * Room RecyclerView Fragment Navigation
+    * 测试一下git的更新
     *
     *
     * */

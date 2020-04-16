@@ -11,6 +11,12 @@ import androidx.navigation.ui.NavigationUI;
 public class MainActivity extends AppCompatActivity {
     private NavController controller;
 
+    /*
+    * Android学习的一个Demo 运用了Android3.6一些新特性
+    * Room RecyclerView Fragment Navigation
+    *
+    *
+    * */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
